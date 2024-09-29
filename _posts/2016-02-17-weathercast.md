@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
+title: 'admin-dashboard'
 date: 2016-02-20 15:56:00
 categories: development
-tags: JavaScript AngularJS API Sass
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
-project_link: 'http://github.com/jamigibbs/weathercast'
+tags: JavaScript TypeScript CSS
+featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
+project_link: 'https://github.com/manderoon/admin-dashboard'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+lead_text: 'A simple data visualisation dashboard.'
 ---

@@ -106,4 +106,8 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  - { url: '/resume', text: 'Resume' }
+  - { url: '/reflections', text: 'Reflections' }
+  - { url: '/coverletter', text: 'Cover Letter' }
+
+keep_files: [_site/resume]

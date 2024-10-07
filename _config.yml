@@ -23,7 +23,7 @@ project that involved collaboration with a Berlin university and software consul
 Throughout this experience, I gained a depth of cultural and global understanding, and made
 many meaningful personal, professional, and academic connections."
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://manderoon.github.io/portfolio" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'manderoon'
 
